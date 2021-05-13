@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Juliana Auzier
-- 👀 I’m interested in Data Science, Machine Learning, Web Front-end Development, and Design
+- 👀 I’m interested in Data Analysis, Data Science, Machine Learning and AI
 - 🌱 I’m currently learning Data Science and Machine Learning
-- 👯 Techs & Tools: Python, SQL, MySQL, PostgreSQL, Adobe XD
+- 👯 Techs & Tools: Python, SQL, MySQL, PostgreSQL
 - 📫 How to reach me: juliana.auzier.s@gmail.com | linkedin.com/in/juliana-auzier/
 
 <!---
