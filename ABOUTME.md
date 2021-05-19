@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis, Data Science, Machine Learning and AI
 - 🌱 I’m currently learning Data Science and Machine Learning
 - 👯 Techs & Tools: Python, SQL, MySQL, PostgreSQL
-- 📫 How to reach me: juliana.auzier.s@gmail.com | linkedin.com/in/juliana-auzier/
+- 📫 How to reach me: juliana.auzier.s@gmail.com | linkedin.com/in/juliana-auzier/ | https://juliana-auzier.medium.com/
 
 <!---
 Auzier17/Auzier17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
