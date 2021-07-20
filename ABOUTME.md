@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Juliana Auzier
-- 👀 I’m interested in Data Analysis, Data Science, Machine Learning and Web Development
+- 👀 I’m interested in Data Analysis, Data Science, Machine Learning and Software Development
 - 🌱 I’m currently learning Data Analysis
 ### 👯 Techs & Tools
 - [x] Python
