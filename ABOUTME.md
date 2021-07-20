@@ -2,10 +2,10 @@
 - 👀 I’m interested in Data Analysis, Data Science, Machine Learning and AI
 - 🌱 I’m currently learning Data Science and Machine Learning
 - 👯 Techs & Tools
-[x] Python
-[x] SQL
-[x] MySQL
-[x] PostgreSQL
+- [x] Python
+- [x] SQL
+- [x] MySQL
+- [x] PostgreSQL
 - 📫 How to reach me:
 [E-mail](juliana.auzier.s@gmail.com)
 [LinkedIn](linkedin.com/in/juliana-auzier/)
