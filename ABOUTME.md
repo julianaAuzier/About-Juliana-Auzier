@@ -6,8 +6,15 @@
 - [x] SQL
 - [x] MySQL
 - [x] PostgreSQL
+- [x] Jupyter Notebook
+- [x] Figma
+- [x] Wamp Server
+- [x] PHP
+- [x] HTML
+- [ ] Bootstrap
+- [ ] Laravel
 ### 📫 How to reach me:
-* [E-mail](juliana.auzier.s@gmail.com)
+* [E-mail: juliana.auzier.s@gmail.com](juliana.auzier.s@gmail.com)
 * [LinkedIn](linkedin.com/in/juliana-auzier/)
 * [Medium](https://juliana-auzier.medium.com/)
 
