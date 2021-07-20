@@ -1,12 +1,12 @@
-- 👋 Hi, I’m Juliana Auzier
+# 👋 Hi, I’m Juliana Auzier
 - 👀 I’m interested in Data Analysis, Data Science, Machine Learning and Web Development
 - 🌱 I’m currently learning Data Analysis
-# 👯 Techs & Tools
+### 👯 Techs & Tools
 - [x] Python
 - [x] SQL
 - [x] MySQL
 - [x] PostgreSQL
-# 📫 How to reach me:
+### 📫 How to reach me:
 * [E-mail](juliana.auzier.s@gmail.com)
 * [LinkedIn](linkedin.com/in/juliana-auzier/)
 * [Medium](https://juliana-auzier.medium.com/)
