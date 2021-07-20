@@ -4,15 +4,17 @@
 ### 👯 Techs & Tools
 - [x] Python
 - [x] SQL
-- [x] MySQL
-- [x] PostgreSQL
+- [ ] Machine Learning
 - [x] Jupyter Notebook
 - [x] Figma
 - [x] Wamp Server
 - [x] PHP
 - [x] HTML
+- [x] MySQL
+- [x] PostgreSQL
 - [ ] Bootstrap
 - [ ] Laravel
+- [x] Astah 
 ### 📫 How to reach me:
 * [E-mail: juliana.auzier.s@gmail.com](juliana.auzier.s@gmail.com)
 * [LinkedIn](linkedin.com/in/juliana-auzier/)
