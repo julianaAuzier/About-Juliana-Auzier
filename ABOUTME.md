@@ -4,7 +4,6 @@
 ### 👯 Techs & Tools
 - [x] Python
 - [x] SQL
-- [x] Machine Learning
 - [x] Jupyter Notebook
 - [x] Figma
 - [x] Wamp Server
